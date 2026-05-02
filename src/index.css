@@ -1,0 +1,15 @@
+:root {
+  font-family: "SF Mono", ui-monospace, monospace;
+  background: #09090b;
+  color: #fafafa;
+}
+body {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+textarea,
+input {
+  font: inherit;
+}
