@@ -15,6 +15,8 @@ Shows you understand **retrieval, chunking, and measurement**—not only calling
 npm install && npm run dev
 ```
 
+**PWA manifest**; RAG + token helpers in **`src/lib/rag.ts`**. **`MOBILE.md`** for Expo reuse.
+
 ## Next experiments
 
 - Add cosine similarity with `transformers.js` embeddings.
