@@ -1,0 +1,23 @@
+{
+  "name": "AI Experiments Lab",
+  "short_name": "AILab",
+  "description": "AI experiments and RAG helpers in TypeScript — PWA shell; share src/lib/rag.ts with Expo.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en",
+  "dir": "ltr",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "categories": ["education", "developer"],
+  "icons": [{ "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }],
+  "shortcuts": [
+    {
+      "name": "Open lab",
+      "short_name": "Lab",
+      "url": "/",
+      "icons": [{ "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}
