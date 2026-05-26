@@ -5,6 +5,12 @@ Small **evaluation-minded** playground:
 - Rough **token** estimates for two prompts side by side.
 - **Keyword-overlap RAG** over a corpus you paste (no vectors, no API keys).
 
+## Status (May 2026)
+
+- **Offline**: no model/API keys required.
+- **PWA-ready**: includes manifest + mobile-friendly layout.
+- **Reusable core**: `src/lib/rag.ts` (meant to be shared with an Expo app later).
+
 ## Why
 
 Shows you understand **retrieval, chunking, and measurement**—not only calling `chat.completions`.
